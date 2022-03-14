@@ -13,6 +13,7 @@ Mobile top-down endless chaser I worked on for Vigilance Mobile. This project wa
 
 I've also worked all over this project fixing problems with refactoring code to make it more optimized for mobile.
 
+[**Check out my Source Code**](../Source Code)
 
 ## Animal Spawning Technique
 To create this dynamic spawning system, I created a modifiable gride that on each point it checks if it's clear to place an object - which you can change the size/radius of the point and the spacing between each of them. If the area is clear, that point location data is stored for it to be used for placement. 
@@ -36,5 +37,5 @@ Then to make sure that enemies don't spawn in objects, it checks if that point i
 
 ### Enemy Movement
 
-The AI works with a dumb down version of Steering behaviors by Craig W. Reynolds. I used detection rays to handle the obstacle avoidance and create a ray to lock on to the player and ignore anything else. 
+The AI works with a dumb down version of [Steering behaviors by Craig W. Reynolds](https://www.red3d.com/cwr/steer/gdc99/). I used detection rays to handle the obstacle avoidance and create a ray to lock on to the player and ignore anything else. 
 ![Enemy Actor](ImageFiles/EnemyMovement.png)
