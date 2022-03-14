@@ -1,5 +1,6 @@
 # Intergalactic-Rescue
 Mobile top-down endless chaser I worked on for Vigilance Mobile. This project was in development for a year due to development and design issues. Starting with a team of 10 and finishing with only me working on it, I reworked the game design into a super simple game loop - save the cows and try not to get hit by the hunters. 
+The game takes inspiration from [PAKO](https://apps.apple.com/us/app/pako-car-chase-simulator/id903183877) and [Alien Abduction](http://www.caiman.us/scripts/fw/f658.html) 
 
 ![Gameplay](ImageFiles/Gameplay.gif)
 
@@ -13,7 +14,7 @@ Mobile top-down endless chaser I worked on for Vigilance Mobile. This project wa
 
 I've also worked all over this project fixing problems with refactoring code to make it more optimized for mobile.
 
-[**Check out my Source Code**](../Source Code)
+[**Check out my Source Code**](../SourceCode)
 
 ## Animal Spawning Technique
 To create this dynamic spawning system, I created a modifiable gride that on each point it checks if it's clear to place an object - which you can change the size/radius of the point and the spacing between each of them. If the area is clear, that point location data is stored for it to be used for placement. 
