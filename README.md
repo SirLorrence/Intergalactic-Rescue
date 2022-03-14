@@ -36,5 +36,5 @@ Then to make sure that enemies don't spawn in objects, it checks if that point i
 
 ### Enemy Movement
 
-The AI works 
+The AI works with a dumb down version of Steering behaviors by Craig W. Reynolds. I used detection rays to handle the obstacle avoidance and create a ray to lock on to the player and ignore anything else. 
 ![Enemy Actor](ImageFiles/EnemyMovement.png)
