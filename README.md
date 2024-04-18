@@ -2,7 +2,8 @@
 Mobile top-down endless chaser I worked on for Vigilance Mobile. This project was in development for a year due to development and design issues. Starting with a team of 10 and finishing with only me working on it, I reworked the game design into a super simple game loop - save the cows and try not to get hit by the hunters. 
 The game takes inspiration from [PAKO](https://apps.apple.com/us/app/pako-car-chase-simulator/id903183877) and [Alien Abduction](http://www.caiman.us/scripts/fw/f658.html) 
 
-Release on Android via the [Google Play Store](https://play.google.com/store/apps/details?id=com.VigilanceMobile.IntergalacticRescue)
+~~Release on Android via the [Google Play Store](https://play.google.com/store/apps/details?id=com.VigilanceMobile.IntergalacticRescue)~~
+Now Delisted ╥﹏╥
 
 ![Gameplay](ImageFiles/Gameplay.gif)
 
